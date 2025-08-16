@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @yagaoer
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 You are looking at @yagaoer
+- 🌱 Beautiful things don't ask for attention.
+- 📫 3492431424@qq.com
 
 <!---
 yagaoer/yagaoer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
